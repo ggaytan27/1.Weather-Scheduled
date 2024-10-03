@@ -1,0 +1,9 @@
+#Ignorar archivos de configuracion de entorno
+.env
+env/
+env\
+
+#Ignorar carpeta pycache
+.__pycache__
+__pycache__\
+__pycache__/
